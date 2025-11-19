@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nafiz Muntasir</h1>
 <h3 align="center">🚀 Full-stack Developer | MERN Stack Enthusiast | Bangladesh</h3>
 
----
 
 ## 👨‍💻 About Me  
 I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
 Currently, I'm focused on expanding my knowledge in **Next.js** while working on exciting real-world projects.
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -40,8 +38,6 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 </p>
 
 
----
-
 ## 🌐 Connect with Me
 <div>
 <p align="left">
@@ -55,7 +51,6 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 </div>
 
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -67,7 +62,6 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 
 </div>
 
----
 
 
 <p align="left">
