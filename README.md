@@ -34,9 +34,10 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 ![MySQL](https://img.shields.io/badge/MySQL-005C8A?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+## **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" />
+</p>
 
 
 ---
@@ -56,13 +57,6 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,cpp,java,git,linux,tailwind,firebase,figma,docker,tensorflow,pandas" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   
@@ -74,6 +68,49 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 </div>
 
 ---
+
+
+## 🚀 Latest Projects
+
+<table>
+<tr>
+
+<!-- Project 1 -->
+<td width="50%">
+<h3> TravelEase</h3>
+<p>
+TravelEase is a full-stack MERN application built with React (Vite), Firebase Authentication, Express.js, and MongoDB Atlas — offering a seamless experience for travelers and vehicle owners alike.
+</p>
+<p><b>Tech:</b> React.js, Node.js, Express, MongoDB</p>
+<p>
+<img src="" width="100%" height="250" />
+</p>
+<p>
+🔗 <a href="https://travelease-nafiz.netlify.app">Live Link</a> • 
+💻 <a href="https://github.com/nafiz512/Travel-Ease-Client">GitHub Repo client</a>
+💻 <a href="https://github.com/nafiz512/Travel-Ease-Server">GitHub Repo server</a>
+</p>
+</td>
+
+<!-- Project 2 -->
+<td width="50%">
+<h3>GreenNest</h3>
+<p>GreenNest is a modern React.js web application designed for plant lovers to explore, learn, and purchase indoor plants.
+</p>
+<p><b>Tech:</b> React.js, Node.js, Express, MongoDB</p>
+<p>
+<img src="" width="100%" height="250" />
+</p>
+<p>
+🔗 <a href="https://greennest-2d277.web.app/plants">Live Link</a> • 
+💻 <a href="https://github.com/nafiz512/GreenNest-React-firsebase-auth">GitHub Repo</a>
+</p>
+</td>
+
+</tr>
+
+---
+
 
 
 <p align="left">
