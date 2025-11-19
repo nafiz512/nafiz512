@@ -1,3 +1,4 @@
+<img src="./Abstract Technology Profile LinkedIn Banner.png"/>
 <h1 align="center">Hi 👋, I'm Nafiz Muntasir</h1>
 <h3 align="center">🚀 Full-stack Developer | MERN Stack Enthusiast | Bangladesh</h3>
 
