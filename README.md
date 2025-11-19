@@ -70,49 +70,6 @@ Currently, I'm focused on expanding my knowledge in **Next.js** while working on
 ---
 
 
-## 🚀 Latest Projects
-
-<table>
-<tr>
-
-<!-- Project 1 -->
-<td width="50%">
-<h3> TravelEase</h3>
-<p>
-TravelEase is a full-stack MERN application built with React (Vite), Firebase Authentication, Express.js, and MongoDB Atlas — offering a seamless experience for travelers and vehicle owners alike.
-</p>
-<p><b>Tech:</b> React.js, Node.js, Express, MongoDB</p>
-<p>
-<img src="" width="100%" height="250" />
-</p>
-<p>
-🔗 <a href="https://travelease-nafiz.netlify.app">Live Link</a> • 
-💻 <a href="https://github.com/nafiz512/Travel-Ease-Client">GitHub Repo client</a>
-💻 <a href="https://github.com/nafiz512/Travel-Ease-Server">GitHub Repo server</a>
-</p>
-</td>
-
-<!-- Project 2 -->
-<td width="50%">
-<h3>GreenNest</h3>
-<p>GreenNest is a modern React.js web application designed for plant lovers to explore, learn, and purchase indoor plants.
-</p>
-<p><b>Tech:</b> React.js, Node.js, Express, MongoDB</p>
-<p>
-<img src="" width="100%" height="250" />
-</p>
-<p>
-🔗 <a href="https://greennest-2d277.web.app/plants">Live Link</a> • 
-💻 <a href="https://github.com/nafiz512/GreenNest-React-firsebase-auth">GitHub Repo</a>
-</p>
-</td>
-
-</tr>
-
----
-
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nafiz512&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
